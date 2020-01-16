@@ -1,0 +1,103 @@
+/*
+@name          Painel civi 
+@programmer    Rodolfo M F Abreu - Salamandery
+@layout        Arianne Michelle dos Santos Brito
+@layout        Alan
+@version       1.0.1f
+@date          2018-06-26
+@copyright     (c) 2018
+@license       MIT License
+
+@contato:       rodolfo_mferreira@hotmail.com
+*/
+
+@media screen and (min-width: 640px) and (max-width: 844px) {
+	ativ {
+		font-size: 30px;
+	}
+	hora {
+		font-size: 70px;
+		margin-bottom: 20px;	
+	}
+	.msg {
+		font-size: 20px;
+	}
+}
+@media screen and (min-width: 845px) and (max-width: 1280px) {
+	ativ {
+		font-size: 40px;
+	}
+	hora {
+		font-size: 90px;
+		margin-bottom: 35px;	
+	}
+	graus {
+		font-size: 90px;
+	}
+	.msg {
+		font-size: 40px;
+		bottom: 40%;
+	}
+}
+@media screen and (min-width: 1281px) and (max-width: 1600px) {
+	ativ {
+		font-size: 60px;
+	}
+	hora {
+		font-size: 120px;
+		margin-bottom: 35px;	
+	}
+	.msg {
+		font-size: 50px;
+		bottom: 40%;
+	}
+}
+@media screen and (min-width: 1601px) and (max-width: 1920px) {
+	ativ {
+		font-size: 70px;
+	}
+	hora {
+		font-size: 140px;
+		margin-bottom: 35px;	
+	}
+	.msg {
+		font-size: 60px;
+		bottom: 40%;
+	}
+}
+@media screen and (min-width: 1921px) and (max-width: 2560px) {
+	ativ {
+		font-size: 90px;
+	}
+	hora {
+		font-size: 150px;
+		margin-bottom: 40px;	
+	}
+}
+@media screen and (min-width: 2561px) and (max-width: 3011px) {
+	ativ {
+		font-size: 100px;
+	}
+	hora {
+		font-size: 160px;
+		margin-bottom: 40px;	
+	}
+}
+@media screen and (min-width: 3011px) and (max-width: 3400px) {
+	ativ {
+		font-size: 110px;
+	}
+	hora {
+		font-size: 170px;
+		margin-bottom: 40px;	
+	}
+}
+@media screen and (min-width: 3400px) and (max-width: 3840px) {
+	ativ {
+		font-size: 120px;
+	}
+	hora {
+		font-size: 180px;
+		margin-bottom: 40px;	
+	}
+}

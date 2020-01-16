@@ -1,0 +1,131 @@
+*, *:before, *:after {
+ -webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	     box-sizing: border-box;
+}
+html, body {
+	color: #3c3c3c;
+	height: 100%;
+	font-size: 18px;
+	font-weight: bold;
+	overflow-y: hidden;
+	overflow-x: hidden;
+}
+h2 {
+	font-size: 50px;
+}
+p {
+	font-size: 20px;
+}
+select, input {
+	color: #000;
+	text-transform: uppercase;
+}
+.table {
+	position: absolute;
+	right: 1%;
+	height: 10%;
+	width: 98%;
+}
+.panel-body {
+	position: absolute;
+	right: 1px;
+	height: 86%;
+	width: 100%;
+	overflow-y: scroll;
+	overflow-x: hidden;
+}
+.tableling {
+	position: absolute;
+	right: 3%;
+	height: 52%;
+	width: 95%;
+	margin-top: 1%;
+}
+.btn {
+	background-color: #3c3c3c;
+	color: #fff;
+}
+.btn:hover {
+	background-color: #ff6600;
+	color: #fff;
+}
+.panel {
+	position: absolute;
+	width: 100%;
+	border: 1px solid #ff6600;
+	height: 100%;
+}
+.panel-heading {
+	background-color: #ff6600;
+	color: #fff;
+}
+.dark {
+	background-color: #3c3c3c;
+	color: #fff;
+}
+.dark a:link, a:visited {
+	color: #fff;
+}
+.dark a:hover, a:active {
+	color: #3c3c3c;
+}
+.menu-nav button:hover {
+	color: #3c3c3c;
+	background-color: #fff;
+}
+.nav-item button.active {
+	background-color: #ff6600;
+	color: #fff;
+}
+.menu-nav button {
+	background-color: #3c3c3c;
+	color: #fff;
+	width: 100%;
+	padding: 20px;
+    border: none;
+    outline: none;
+    text-align: left;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 17px;
+}
+.tabcontent {
+    position: absolute;
+	right: 0;
+    padding: 0px 12px;
+	margin-top: 2%;
+    border: 1px solid #ccc;
+    width: 80%;
+    height: 100%;
+    border-left: none;
+	display: none;
+}
+.menu-nav {
+	position: absolute;
+	left: 0;
+	padding: 0;
+	margin-top: 2.7%;
+	width: 20%;
+	height: 100%;
+	text-decoration: none;
+	border: 1px solid #ccc;
+	border-left: none;
+}
+
+#forms {
+	margin: 10px;
+	padding: 10px;
+}
+#forms h2 {
+	border-bottom: 1px solid #ccc;
+	padding-bottom: 20px; 
+}
+.copy {
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	text-align: right;
+	font-size: 12px;
+	font-weight: normal;
+}
