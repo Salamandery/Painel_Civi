@@ -107,6 +107,8 @@ Painel_Civi/
 <div align="center">
 
 **Rodolfo M. F. Abreu**  
+**Arianne Michelle dos Santos Brito**  
+**Alan**  
 Desenvolvedor de software apaixonado por tecnologia, aprendizado contínuo e boas práticas de programação. Sempre em busca de novos desafios e oportunidades para colaborar em projetos inovadores.
 
 [![GitHub](https://img.shields.io/badge/GitHub-rodolfomfabreu-black?style=for-the-badge&logo=github)](https://github.com/salamandery)
@@ -121,6 +123,8 @@ Sinta-se à vontade para entrar em contato para dúvidas, sugestões ou colabora
 <div align="center">
 
 **Rodolfo M. F. Abreu**  
+**Arianne Michelle dos Santos Brito**  
+**Alan**  
 Software developer passionate about technology, continuous learning, and best programming practices. Always looking for new challenges and opportunities to collaborate on innovative projects.
 
 [![GitHub](https://img.shields.io/badge/GitHub-rodolfomfabreu-black?style=for-the-badge&logo=github)](https://github.com/salamandery)
