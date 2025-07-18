@@ -112,6 +112,7 @@ Painel_Civi/
 Desenvolvedor de software apaixonado por tecnologia, aprendizado contínuo e boas práticas de programação. Sempre em busca de novos desafios e oportunidades para colaborar em projetos inovadores.
 
 [![GitHub](https://img.shields.io/badge/GitHub-rodolfomfabreu-black?style=for-the-badge&logo=github)](https://github.com/salamandery)
+[![GitHub](https://img.shields.io/badge/GitHub-ariannemichelle-black?style=for-the-badge&logo=github)](https://github.com/ArianneYnue)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rodolfo%20Abreu-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rodolfo-marques-ferreira-de-abreu/)
 
 Sinta-se à vontade para entrar em contato para dúvidas, sugestões ou colaborações!
@@ -128,6 +129,7 @@ Sinta-se à vontade para entrar em contato para dúvidas, sugestões ou colabora
 Software developer passionate about technology, continuous learning, and best programming practices. Always looking for new challenges and opportunities to collaborate on innovative projects.
 
 [![GitHub](https://img.shields.io/badge/GitHub-rodolfomfabreu-black?style=for-the-badge&logo=github)](https://github.com/salamandery)
+[![GitHub](https://img.shields.io/badge/GitHub-ariannemichelle-black?style=for-the-badge&logo=github)](https://github.com/ArianneYnue)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rodolfo%20Abreu-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rodolfo-marques-ferreira-de-abreu/)
 
 Feel free to get in touch for questions, suggestions, or collaborations!
